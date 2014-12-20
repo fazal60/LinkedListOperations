@@ -142,7 +142,7 @@ public class LLMain {
 			
 		}
 		
-		llm.sortList(head);
+		//llm.sortList(head);
 	}
 	
 	public void sortList(ListStruct head)
